@@ -28,6 +28,6 @@ createAt:{
 }
 );
 
-const prescrption = mongoose.model('Prescription', prescriptionSchema);
+const prescription = mongoose.model('Prescription', prescriptionSchema);
 
 export default prescription;
